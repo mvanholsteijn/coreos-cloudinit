@@ -84,3 +84,4 @@ Please use the [CoreOS issue tracker][bugs] to report all bugs, issues, and feat
 
 [bugs]: https://github.com/coreos/bugs/issues/new?labels=component/cloud-init
 
+
